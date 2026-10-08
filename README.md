@@ -54,22 +54,27 @@ The project analyzes:
 - Bounce rates
 - Exit rates
 - Page values
-### 📊 Project Visualizations
+  
+## 📊 Project Visualizations
 
-#### Purchase Distribution
-![Purchase Distribution](images/purchase_distribution.png)
+### Purchase Rate by Visitor Type
+![Purchase Rate by Visitor Type](Purchase_Rate_Visitor_Type.png)
 
-#### Monthly Purchase Rate
-![Monthly Purchase Rate](images/monthly_purchase_rate.png)
+### Purchase Rate by Month
+![Purchase Rate by Month](Purchase_Rate_By_Month.png)
 
-#### Feature Importance
-![Feature Importance](images/feature_importance.png)
+### Purchase Prediction Features
+![Purchase Prediction Features](Purchase_Prediction_Features.png)
 
-#### ROC Curve
-![ROC Curve](images/roc_curve.png)
+### Confusion Matrix
+![Confusion Matrix](Confusion_Matrix.png)
 
-#### Visitor Segmentation
-![Visitor Segmentation](images/customer_segments.png)
+### ROC Curve Comparison
+![ROC Curve Comparison](ROC_Curve_Comparison.png)
+
+### Customer Segmentation — Silhouette Score
+![Silhouette Score](Silhouette_Score.png)
+
 ### Key EDA Findings
 
 - New visitors showed a higher purchase rate than returning visitors.
